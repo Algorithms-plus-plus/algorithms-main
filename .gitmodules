@@ -1,0 +1,6 @@
+[submodule "algorithms-be"]
+	path = algorithms-be
+	url = git@github.com:Algorithms-plus-plus/algorithms-be.git
+[submodule "algorithms-fe"]
+	path = algorithms-fe
+	url = git@github.com:Algorithms-plus-plus/algorithms-fe.git
