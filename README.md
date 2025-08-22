@@ -23,4 +23,9 @@ git submodule update
 
 [More info](https://labex.io/tutorials/git-how-to-synchronize-changes-in-a-git-submodule-417934).
 
-
+Frameworks and modules:
+1. Spring Boot 3.5.3
+- WebFlux - idea is not the reactive approach but to get partial data from single request instead of using sockets. Need to check if it works, if not will use sockets
+- Modulith - a way to separate different modules and exclude the possibility referencing internal dependencies. Don't think events will be used between the modules. (Domain Driven Design)
+2. Angular 20
+- bootstrap 5+
